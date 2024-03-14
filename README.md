@@ -15,7 +15,7 @@ This repository contains a web-based survey form focusing on the impact of socia
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/social-media-survey-form.git
+   git clone https://github.com/Abdullaha2h/Survey-Form-HTML-CSS.git
    ```
 2. Open the `Survey_form.html` file in your web browser to access the survey form.
 3. Fill out the survey form with your responses and submit.
